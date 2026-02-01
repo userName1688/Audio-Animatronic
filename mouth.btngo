@@ -905,7 +905,7 @@
                     "animationTrack": {
                       "$ref": "74"
                     },
-                    "Frame": 0
+                    "Frame": 43
                   }
                 ]
               }
@@ -953,7 +953,7 @@
                       "X": 67,
                       "Y": -2.5
                     },
-                    "Frame": 0
+                    "Frame": 26
                   },
                   {
                     "$id": "84",
@@ -967,8 +967,8 @@
                     "InTangent": {
                       "$id": "85",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -533,
-                      "Y": 2.25
+                      "X": -486,
+                      "Y": 2.12669539
                     },
                     "OutTangent": {
                       "$id": "86",
