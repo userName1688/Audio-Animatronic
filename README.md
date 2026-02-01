@@ -6,3 +6,6 @@ This is an RPI Robotics project
 
 
 James Fish
+Rosanna Lu
+Zane Brotherton
+
