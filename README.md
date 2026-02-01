@@ -6,8 +6,8 @@ This is an RPI Robotics project
 Aidan Andler
 
 
-James Fish
+
 Skylar Herman
 Rosanna Lu
 Zane Brotherton
-
+James Fish
