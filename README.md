@@ -3,6 +3,7 @@
 This is an RPI Robotics project
 
 ## Contributors
+
 Aidan Andler
 
 Skylar Herman
@@ -14,3 +15,10 @@ Zane Brotherton
 James Fish
 
 Siya Gujarathi
+
+Sydney Simmons
+
+Arnav Bhatnagar
+
+Charlie Fowle
+
