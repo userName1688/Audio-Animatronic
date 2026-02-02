@@ -13,7 +13,7 @@
         "mediaPath": {
           "$id": "4",
           "$type": "MediaPath, Assembly-CSharp",
-          "path": "C:\\Users\\djsci\\Documents\\Bottango_Projects\\Audio-Animatronic\\Mouth_Assembly.obj",
+          "path": "/mnt/72e8e002-b97e-403e-9ca7-69bbd6dde568/Documents/Bottango-Projects/Audio-Animatronic/Mouth_Assembly.obj",
           "local": false,
           "assetBundlePath": null,
           "IsStreamingAsset": false
