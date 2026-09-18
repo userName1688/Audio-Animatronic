@@ -1,0 +1,3191 @@
+﻿{
+  "$id": "1",
+  "$type": "ProjectHolder, Assembly-CSharp",
+  "saveVersion": "12",
+  "bottangoVersion": "0.7.0c2",
+  "importedModels": {
+    "$id": "2",
+    "$type": "System.Collections.Generic.List`1[[CustomModelMedia, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$id": "3",
+        "$type": "CustomModelMedia, Assembly-CSharp",
+        "mediaPath": {
+          "$id": "4",
+          "$type": "MediaPath, Assembly-CSharp",
+          "path": "C:\\Users\\fishj5\\Downloads\\GizmoCenterPlateBottango\\gizmo center plate assy.obj",
+          "local": false,
+          "assetBundlePath": null,
+          "IsStreamingAsset": false
+        },
+        "modelRootPath": {
+          "$id": "5",
+          "$type": "ModelInternalPath, Assembly-CSharp",
+          "pathPoints": {
+            "$id": "6",
+            "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+            "$values": [
+              {
+                "$id": "7",
+                "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                "pointName": "gizmo center plate assy",
+                "siblingIndex": 0
+              }
+            ]
+          }
+        },
+        "collapsePoints": {
+          "$id": "8",
+          "$type": "System.Collections.Generic.List`1[[ModelInternalPath, Assembly-CSharp]], mscorlib",
+          "$values": []
+        },
+        "conversionPoints": {
+          "$id": "9",
+          "$type": "System.Collections.Generic.List`1[[CustomModelMedia+ConversionPoint, Assembly-CSharp]], mscorlib",
+          "$values": []
+        },
+        "hiddenPoints": {
+          "$id": "10",
+          "$type": "System.Collections.Generic.List`1[[ModelInternalPath, Assembly-CSharp]], mscorlib",
+          "$values": []
+        },
+        "pivotOffsets": {
+          "$id": "11",
+          "$type": "System.Collections.Generic.List`1[[CustomModelPivotOffset, Assembly-CSharp]], mscorlib",
+          "$values": []
+        },
+        "scaleFactor": 20.0
+      }
+    ]
+  },
+  "parts": {
+    "$id": "12",
+    "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$id": "13",
+        "$type": "PartHolder, Assembly-CSharp",
+        "part": {
+          "$id": "14",
+          "$type": "CustomModel, Assembly-CSharp",
+          "mediaPath": {
+            "$ref": "4"
+          },
+          "useImportedMaterial": true,
+          "associatedChainRoot": null,
+          "pivot": "Center",
+          "customPivot": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Locked": false,
+          "isRoot": true,
+          "isCollapsePoint": false,
+          "HomeLocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "eulerAngles": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "HomeLocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Name": "gizmo center plate assy",
+          "Visible": true,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Color": {
+            "a": 1.0,
+            "r": 0.0,
+            "g": 0.772549033,
+            "b": 0.3764706
+          },
+          "ModelInternalPath": {
+            "$ref": "5"
+          }
+        },
+        "parent": null,
+        "siblingIndex": 0,
+        "children": {
+          "$id": "15",
+          "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+          "$values": [
+            {
+              "$id": "16",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "17",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "18",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "19",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "20",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1",
+                        "siblingIndex": 0
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 0,
+              "children": {
+                "$id": "21",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "22",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "23",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:1",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "24",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "25",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "26",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:1",
+                        "siblingIndex": 1
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 1,
+              "children": {
+                "$id": "27",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "28",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "29",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:2",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "30",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "31",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "32",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:2",
+                        "siblingIndex": 2
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 2,
+              "children": {
+                "$id": "33",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "34",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "35",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:3",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "36",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "37",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "38",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:3",
+                        "siblingIndex": 3
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 3,
+              "children": {
+                "$id": "39",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "40",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "41",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:4",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "42",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "43",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "44",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:4",
+                        "siblingIndex": 4
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 4,
+              "children": {
+                "$id": "45",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "46",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "47",
+                "$type": "TonicNorth.Bottango.Articulation.Servo, Assembly-CSharp",
+                "jointLinks": {
+                  "$id": "48",
+                  "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp]], mscorlib",
+                  "$values": []
+                },
+                "serializedMotorHardwareConfiguration": {
+                  "$id": "49",
+                  "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
+                  "Pin": 0,
+                  "MinPwm": 1000,
+                  "MaxPwm": 2000,
+                  "MaxSpeed": 3000
+                },
+                "hornRange": 180.0,
+                "hornOffset": 0.0,
+                "hornClockwise": false,
+                "boltCalibrationOffset": null,
+                "liveOnLaunch": false,
+                "postProcessorsAsLeader": {
+                  "$id": "50",
+                  "$type": "System.Collections.Generic.List`1[[IMovementPostProcessor, Assembly-CSharp]], mscorlib",
+                  "$values": []
+                },
+                "postProcessorAsFollower": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "HomePWM": 1500,
+                "JogSpeedMultiplier": 0.5,
+                "HornRange": 180.0,
+                "HomeLocalRotation": {
+                  "w": -0.49999997,
+                  "x": 0.49999997,
+                  "y": -0.49999997,
+                  "z": -0.49999997,
+                  "eulerAngles": {
+                    "x": 270.0,
+                    "y": 90.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": -0.2,
+                  "y": 0.4,
+                  "z": -0.12
+                },
+                "Name": "Servo Motor",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 1.0,
+                  "g": 0.329411775,
+                  "b": 0.0
+                },
+                "ModelInternalPath": null,
+                "Locked": false
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 5,
+              "children": {
+                "$id": "51",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "52",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "53",
+                "$type": "ArticulationJoint, Assembly-CSharp",
+                "axis": "RotY",
+                "motorLink": null,
+                "associatedNode": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "offsetMin": -45.0,
+                "offsetMax": 45.0,
+                "HomeLocalRotation": {
+                  "w": -0.49999997,
+                  "x": 0.49999997,
+                  "y": -0.49999997,
+                  "z": -0.49999997,
+                  "eulerAngles": {
+                    "x": 270.0,
+                    "y": 90.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": -0.2,
+                  "y": 0.39,
+                  "z": -0.115
+                },
+                "Name": "Joint",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.56078434,
+                  "g": 0.149019614,
+                  "b": 0.9490196
+                },
+                "ModelInternalPath": null,
+                "Locked": false
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 6,
+              "children": {
+                "$id": "54",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": [
+                  {
+                    "$id": "55",
+                    "$type": "PartHolder, Assembly-CSharp",
+                    "part": {
+                      "$id": "56",
+                      "$type": "CustomModel, Assembly-CSharp",
+                      "mediaPath": {
+                        "$ref": "4"
+                      },
+                      "useImportedMaterial": true,
+                      "associatedChainRoot": null,
+                      "pivot": "Center",
+                      "customPivot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "Locked": false,
+                      "isRoot": false,
+                      "isCollapsePoint": false,
+                      "HomeLocalRotation": {
+                        "w": 0.49999997,
+                        "x": 0.49999997,
+                        "y": -0.49999997,
+                        "z": -0.49999997,
+                        "eulerAngles": {
+                          "x": 0.0,
+                          "y": 270.0,
+                          "z": 270.0
+                        }
+                      },
+                      "HomeLocalPosition": {
+                        "x": -0.115000017,
+                        "y": -0.200000048,
+                        "z": -0.39
+                      },
+                      "Name": "Solid1:5",
+                      "Visible": true,
+                      "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                      },
+                      "Color": {
+                        "a": 1.0,
+                        "r": 0.0,
+                        "g": 0.772549033,
+                        "b": 0.3764706
+                      },
+                      "ModelInternalPath": {
+                        "$id": "57",
+                        "$type": "ModelInternalPath, Assembly-CSharp",
+                        "pathPoints": {
+                          "$id": "58",
+                          "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                          "$values": [
+                            {
+                              "$ref": "7"
+                            },
+                            {
+                              "$id": "59",
+                              "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                              "pointName": "Solid1:5",
+                              "siblingIndex": 6
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "parent": {
+                      "$ref": "53"
+                    },
+                    "siblingIndex": 0,
+                    "children": {
+                      "$id": "60",
+                      "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                      "$values": []
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "$id": "61",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "62",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid2",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "63",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "64",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "65",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid2",
+                        "siblingIndex": 5
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 7,
+              "children": {
+                "$id": "66",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "67",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "68",
+                "$type": "TonicNorth.Bottango.Articulation.Servo, Assembly-CSharp",
+                "jointLinks": {
+                  "$id": "69",
+                  "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp]], mscorlib",
+                  "$values": [
+                    {
+                      "$id": "70",
+                      "$type": "TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp",
+                      "articulationJoint": {
+                        "$id": "71",
+                        "$type": "ArticulationJoint, Assembly-CSharp",
+                        "axis": "PosY",
+                        "motorLink": {
+                          "$ref": "70"
+                        },
+                        "associatedNode": null,
+                        "pivot": "Center",
+                        "customPivot": {
+                          "x": 0.0,
+                          "y": 0.0,
+                          "z": 0.0
+                        },
+                        "offsetMin": -0.05,
+                        "offsetMax": 0.12,
+                        "HomeLocalRotation": {
+                          "w": 1.0,
+                          "x": 0.0,
+                          "y": 0.0,
+                          "z": 0.0,
+                          "eulerAngles": {
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0
+                          }
+                        },
+                        "HomeLocalPosition": {
+                          "x": 0.0,
+                          "y": 0.0,
+                          "z": 0.0
+                        },
+                        "Name": "Joint",
+                        "Visible": true,
+                        "Size": {
+                          "x": 1.0,
+                          "y": 1.0,
+                          "z": 1.0
+                        },
+                        "Color": {
+                          "a": 1.0,
+                          "r": 0.56078434,
+                          "g": 0.149019614,
+                          "b": 0.9490196
+                        },
+                        "ModelInternalPath": null,
+                        "Locked": false
+                      },
+                      "motor": {
+                        "$ref": "68"
+                      },
+                      "conflictResolutionStrategy": "UsePrimaryJointHome"
+                    }
+                  ]
+                },
+                "serializedMotorHardwareConfiguration": {
+                  "$id": "72",
+                  "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
+                  "Pin": 0,
+                  "MinPwm": 1000,
+                  "MaxPwm": 2000,
+                  "MaxSpeed": 10000
+                },
+                "hornRange": 180.0,
+                "hornOffset": 0.0,
+                "hornClockwise": false,
+                "boltCalibrationOffset": null,
+                "liveOnLaunch": false,
+                "postProcessorsAsLeader": {
+                  "$id": "73",
+                  "$type": "System.Collections.Generic.List`1[[IMovementPostProcessor, Assembly-CSharp]], mscorlib",
+                  "$values": []
+                },
+                "postProcessorAsFollower": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "HomePWM": 1294,
+                "JogSpeedMultiplier": 0.5,
+                "HornRange": 180.0,
+                "HomeLocalRotation": {
+                  "w": 0.49999997,
+                  "x": 0.49999997,
+                  "y": 0.49999997,
+                  "z": -0.49999997,
+                  "eulerAngles": {
+                    "x": 90.0,
+                    "y": 90.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": -0.33,
+                  "y": 0.0,
+                  "z": -0.077
+                },
+                "Name": "Servo Motor",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 1.0,
+                  "g": 0.329411775,
+                  "b": 0.0
+                },
+                "ModelInternalPath": null,
+                "Locked": false
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 8,
+              "children": {
+                "$id": "74",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "75",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$ref": "71"
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 9,
+              "children": {
+                "$id": "76",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": [
+                  {
+                    "$id": "77",
+                    "$type": "PartHolder, Assembly-CSharp",
+                    "part": {
+                      "$id": "78",
+                      "$type": "CustomModel, Assembly-CSharp",
+                      "mediaPath": {
+                        "$ref": "4"
+                      },
+                      "useImportedMaterial": true,
+                      "associatedChainRoot": null,
+                      "pivot": "Center",
+                      "customPivot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "Locked": false,
+                      "isRoot": false,
+                      "isCollapsePoint": false,
+                      "HomeLocalRotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0,
+                        "eulerAngles": {
+                          "x": 0.0,
+                          "y": 0.0,
+                          "z": 0.0
+                        }
+                      },
+                      "HomeLocalPosition": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                      },
+                      "Name": "Solid1:6",
+                      "Visible": true,
+                      "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                      },
+                      "Color": {
+                        "a": 1.0,
+                        "r": 0.0,
+                        "g": 0.772549033,
+                        "b": 0.3764706
+                      },
+                      "ModelInternalPath": {
+                        "$id": "79",
+                        "$type": "ModelInternalPath, Assembly-CSharp",
+                        "pathPoints": {
+                          "$id": "80",
+                          "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                          "$values": [
+                            {
+                              "$ref": "7"
+                            },
+                            {
+                              "$id": "81",
+                              "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                              "pointName": "Solid1:6",
+                              "siblingIndex": 7
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "parent": {
+                      "$ref": "71"
+                    },
+                    "siblingIndex": 0,
+                    "children": {
+                      "$id": "82",
+                      "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                      "$values": []
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "$id": "83",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "84",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:7",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "85",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "86",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "87",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:7",
+                        "siblingIndex": 8
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 10,
+              "children": {
+                "$id": "88",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "89",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "90",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:8",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "91",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "92",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "93",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:8",
+                        "siblingIndex": 9
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 11,
+              "children": {
+                "$id": "94",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "95",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "96",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:9",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "97",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "98",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "99",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:9",
+                        "siblingIndex": 10
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 12,
+              "children": {
+                "$id": "100",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "101",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "102",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid2:1",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "103",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "104",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "105",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid2:1",
+                        "siblingIndex": 11
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 13,
+              "children": {
+                "$id": "106",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "107",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "108",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:10",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "109",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "110",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "111",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:10",
+                        "siblingIndex": 12
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 14,
+              "children": {
+                "$id": "112",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "113",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "114",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:11",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "115",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "116",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "117",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:11",
+                        "siblingIndex": 13
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 15,
+              "children": {
+                "$id": "118",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "119",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "120",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:12",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "121",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "122",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "123",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:12",
+                        "siblingIndex": 14
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 16,
+              "children": {
+                "$id": "124",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "125",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "126",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:13",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "127",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "128",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "129",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:13",
+                        "siblingIndex": 15
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 17,
+              "children": {
+                "$id": "130",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "131",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "132",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:14",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "133",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "134",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "135",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:14",
+                        "siblingIndex": 16
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 18,
+              "children": {
+                "$id": "136",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "137",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "138",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:15",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "139",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "140",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "141",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:15",
+                        "siblingIndex": 17
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 19,
+              "children": {
+                "$id": "142",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "143",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "144",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:16",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "145",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "146",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "147",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:16",
+                        "siblingIndex": 18
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 20,
+              "children": {
+                "$id": "148",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "149",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "150",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid2:2",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "151",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "152",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "153",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid2:2",
+                        "siblingIndex": 20
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 21,
+              "children": {
+                "$id": "154",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "155",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "156",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid4",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "157",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "158",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "159",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid4",
+                        "siblingIndex": 21
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 22,
+              "children": {
+                "$id": "160",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "161",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "162",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:18",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "163",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "164",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "165",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:18",
+                        "siblingIndex": 22
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 23,
+              "children": {
+                "$id": "166",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "167",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "168",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:19",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "169",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "170",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "171",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:19",
+                        "siblingIndex": 23
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 24,
+              "children": {
+                "$id": "172",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "173",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "174",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:20",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "175",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "176",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "177",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:20",
+                        "siblingIndex": 24
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 25,
+              "children": {
+                "$id": "178",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "179",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "180",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Name": "Solid1:22",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "181",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "182",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "183",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:22",
+                        "siblingIndex": 26
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "14"
+              },
+              "siblingIndex": 26,
+              "children": {
+                "$id": "184",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$id": "185",
+        "$type": "PartHolder, Assembly-CSharp",
+        "part": {
+          "$id": "186",
+          "$type": "TonicNorth.Bottango.Articulation.Servo, Assembly-CSharp",
+          "jointLinks": {
+            "$id": "187",
+            "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp]], mscorlib",
+            "$values": [
+              {
+                "$id": "188",
+                "$type": "TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp",
+                "articulationJoint": {
+                  "$id": "189",
+                  "$type": "ArticulationJoint, Assembly-CSharp",
+                  "axis": "RotY",
+                  "motorLink": {
+                    "$ref": "188"
+                  },
+                  "associatedNode": null,
+                  "pivot": "Center",
+                  "customPivot": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "offsetMin": -45.0,
+                  "offsetMax": 45.0,
+                  "HomeLocalRotation": {
+                    "w": 1.0,
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "eulerAngles": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    }
+                  },
+                  "HomeLocalPosition": {
+                    "x": -0.265,
+                    "y": -0.6,
+                    "z": -0.215
+                  },
+                  "Name": "Joint",
+                  "Visible": true,
+                  "Size": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  "Color": {
+                    "a": 1.0,
+                    "r": 0.56078434,
+                    "g": 0.149019614,
+                    "b": 0.9490196
+                  },
+                  "ModelInternalPath": null,
+                  "Locked": false
+                },
+                "motor": {
+                  "$ref": "186"
+                },
+                "conflictResolutionStrategy": "UsePrimaryJointHome"
+              }
+            ]
+          },
+          "serializedMotorHardwareConfiguration": {
+            "$id": "190",
+            "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
+            "Pin": 0,
+            "MinPwm": 1000,
+            "MaxPwm": 2000,
+            "MaxSpeed": 10000
+          },
+          "hornRange": 180.0,
+          "hornOffset": 0.0,
+          "hornClockwise": false,
+          "boltCalibrationOffset": null,
+          "liveOnLaunch": false,
+          "postProcessorsAsLeader": {
+            "$id": "191",
+            "$type": "System.Collections.Generic.List`1[[IMovementPostProcessor, Assembly-CSharp]], mscorlib",
+            "$values": []
+          },
+          "postProcessorAsFollower": null,
+          "pivot": "Center",
+          "customPivot": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "HomePWM": 1500,
+          "JogSpeedMultiplier": 0.5,
+          "HornRange": 180.0,
+          "HomeLocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "eulerAngles": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "HomeLocalPosition": {
+            "x": -0.264,
+            "y": -0.6,
+            "z": -0.2
+          },
+          "Name": "Servo Motor",
+          "Visible": true,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Color": {
+            "a": 1.0,
+            "r": 1.0,
+            "g": 0.329411775,
+            "b": 0.0
+          },
+          "ModelInternalPath": null,
+          "Locked": false
+        },
+        "parent": null,
+        "siblingIndex": 1,
+        "children": {
+          "$id": "192",
+          "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+          "$values": []
+        }
+      },
+      {
+        "$id": "193",
+        "$type": "PartHolder, Assembly-CSharp",
+        "part": {
+          "$ref": "189"
+        },
+        "parent": null,
+        "siblingIndex": 2,
+        "children": {
+          "$id": "194",
+          "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+          "$values": [
+            {
+              "$id": "195",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "196",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 1.0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.265,
+                  "y": 0.6,
+                  "z": 0.215
+                },
+                "Name": "Solid1:17",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "197",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "198",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "199",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:17",
+                        "siblingIndex": 19
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "189"
+              },
+              "siblingIndex": 0,
+              "children": {
+                "$id": "200",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            }
+          ]
+        }
+      },
+      {
+        "$id": "201",
+        "$type": "PartHolder, Assembly-CSharp",
+        "part": {
+          "$id": "202",
+          "$type": "TonicNorth.Bottango.Articulation.Servo, Assembly-CSharp",
+          "jointLinks": {
+            "$id": "203",
+            "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp]], mscorlib",
+            "$values": [
+              {
+                "$id": "204",
+                "$type": "TonicNorth.Bottango.Articulation.MotorJointLink, Assembly-CSharp",
+                "articulationJoint": {
+                  "$id": "205",
+                  "$type": "ArticulationJoint, Assembly-CSharp",
+                  "axis": "RotY",
+                  "motorLink": {
+                    "$ref": "204"
+                  },
+                  "associatedNode": null,
+                  "pivot": "Center",
+                  "customPivot": {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  },
+                  "offsetMin": -45.0,
+                  "offsetMax": 45.39779,
+                  "HomeLocalRotation": {
+                    "w": -0.707106769,
+                    "x": 0.707106769,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "eulerAngles": {
+                      "x": 270.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    }
+                  },
+                  "HomeLocalPosition": {
+                    "x": -0.614,
+                    "y": -0.98,
+                    "z": -0.02
+                  },
+                  "Name": "Joint",
+                  "Visible": true,
+                  "Size": {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0
+                  },
+                  "Color": {
+                    "a": 1.0,
+                    "r": 0.56078434,
+                    "g": 0.149019614,
+                    "b": 0.9490196
+                  },
+                  "ModelInternalPath": null,
+                  "Locked": false
+                },
+                "motor": {
+                  "$ref": "202"
+                },
+                "conflictResolutionStrategy": "UsePrimaryJointHome"
+              }
+            ]
+          },
+          "serializedMotorHardwareConfiguration": {
+            "$id": "206",
+            "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
+            "Pin": 0,
+            "MinPwm": 1000,
+            "MaxPwm": 2000,
+            "MaxSpeed": 10000
+          },
+          "hornRange": 180.0,
+          "hornOffset": 0.0,
+          "hornClockwise": false,
+          "boltCalibrationOffset": null,
+          "liveOnLaunch": false,
+          "postProcessorsAsLeader": {
+            "$id": "207",
+            "$type": "System.Collections.Generic.List`1[[IMovementPostProcessor, Assembly-CSharp]], mscorlib",
+            "$values": []
+          },
+          "postProcessorAsFollower": null,
+          "pivot": "Center",
+          "customPivot": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "HomePWM": 1500,
+          "JogSpeedMultiplier": 0.5,
+          "HornRange": 180.0,
+          "HomeLocalRotation": {
+            "w": -0.707106769,
+            "x": 0.707106769,
+            "y": 0.0,
+            "z": 0.0,
+            "eulerAngles": {
+              "x": 270.0,
+              "y": 0.0,
+              "z": 0.0
+            }
+          },
+          "HomeLocalPosition": {
+            "x": -0.614,
+            "y": -0.98,
+            "z": -0.1
+          },
+          "Name": "Servo Motor",
+          "Visible": true,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Color": {
+            "a": 1.0,
+            "r": 1.0,
+            "g": 0.329411775,
+            "b": 0.0
+          },
+          "ModelInternalPath": null,
+          "Locked": false
+        },
+        "parent": null,
+        "siblingIndex": 3,
+        "children": {
+          "$id": "208",
+          "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+          "$values": []
+        }
+      },
+      {
+        "$id": "209",
+        "$type": "PartHolder, Assembly-CSharp",
+        "part": {
+          "$ref": "205"
+        },
+        "parent": null,
+        "siblingIndex": 4,
+        "children": {
+          "$id": "210",
+          "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+          "$values": [
+            {
+              "$id": "211",
+              "$type": "PartHolder, Assembly-CSharp",
+              "part": {
+                "$id": "212",
+                "$type": "CustomModel, Assembly-CSharp",
+                "mediaPath": {
+                  "$ref": "4"
+                },
+                "useImportedMaterial": true,
+                "associatedChainRoot": null,
+                "pivot": "Center",
+                "customPivot": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "Locked": false,
+                "isRoot": false,
+                "isCollapsePoint": false,
+                "HomeLocalRotation": {
+                  "w": 0.707106769,
+                  "x": 0.707106769,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "eulerAngles": {
+                    "x": 90.0,
+                    "y": 0.0,
+                    "z": 0.0
+                  }
+                },
+                "HomeLocalPosition": {
+                  "x": 0.614,
+                  "y": -0.0200001,
+                  "z": 0.9800004
+                },
+                "Name": "Solid1:21",
+                "Visible": true,
+                "Size": {
+                  "x": 1.0,
+                  "y": 1.0,
+                  "z": 1.0
+                },
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.0,
+                  "g": 0.772549033,
+                  "b": 0.3764706
+                },
+                "ModelInternalPath": {
+                  "$id": "213",
+                  "$type": "ModelInternalPath, Assembly-CSharp",
+                  "pathPoints": {
+                    "$id": "214",
+                    "$type": "System.Collections.Generic.List`1[[ModelInternalPath+ModelPathPoint, Assembly-CSharp]], mscorlib",
+                    "$values": [
+                      {
+                        "$ref": "7"
+                      },
+                      {
+                        "$id": "215",
+                        "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
+                        "pointName": "Solid1:21",
+                        "siblingIndex": 25
+                      }
+                    ]
+                  }
+                }
+              },
+              "parent": {
+                "$ref": "205"
+              },
+              "siblingIndex": 0,
+              "children": {
+                "$id": "216",
+                "$type": "System.Collections.Generic.List`1[[PartHolder, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "mediaEffectors": {
+    "$id": "217",
+    "$type": "System.Collections.Generic.List`1[[BotMediaEffector, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$id": "218",
+        "$type": "BotAudioEffector, Assembly-CSharp",
+        "playOnHardware": false,
+        "liveOnLaunch": false,
+        "userSetIdentifier": "myMedia",
+        "fireIsHigh": true,
+        "mediaIndex": null,
+        "mediaPath": {
+          "$id": "219",
+          "$type": "MediaPath, Assembly-CSharp",
+          "path": "\\gizmo chorus.wav",
+          "local": true,
+          "assetBundlePath": null,
+          "IsStreamingAsset": false
+        },
+        "HardwarePin": null
+      }
+    ]
+  },
+  "animationClips": {
+    "$id": "220",
+    "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotAnimationClip, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$id": "221",
+        "$type": "TonicNorth.Bottango.Articulation.BotAnimationClip, Assembly-CSharp",
+        "FPS": 30,
+        "durationInFrames": 300,
+        "name": "Default Animation",
+        "loop": false,
+        "workAreaStart": 0,
+        "workAreaEnd": 300,
+        "recordAreaStart": 0,
+        "recordAreaEnd": 275,
+        "animationTracks": {
+          "$id": "222",
+          "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotAnimationTrack, Assembly-CSharp]], mscorlib",
+          "$values": [
+            {
+              "$id": "223",
+              "$type": "TonicNorth.Bottango.Articulation.MediaAnimationTrack, Assembly-CSharp",
+              "animatable": {
+                "$ref": "218"
+              },
+              "parentClip": {
+                "$ref": "221"
+              },
+              "ungraphableOverried": false,
+              "markers": {
+                "$id": "224",
+                "$type": "System.Collections.Generic.List`1[[AnimationMarker, Assembly-CSharp]], mscorlib",
+                "$values": []
+              },
+              "cachedAnimatableName": "",
+              "keyframes": {
+                "$id": "225",
+                "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotKeyframe, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "226",
+              "$type": "TonicNorth.Bottango.Articulation.MovementAnimationTrack, Assembly-CSharp",
+              "unbound": false,
+              "parentDimensionalTrack": null,
+              "animatable": {
+                "$ref": "71"
+              },
+              "parentClip": {
+                "$ref": "221"
+              },
+              "ungraphableOverried": false,
+              "markers": {
+                "$id": "227",
+                "$type": "System.Collections.Generic.List`1[[AnimationMarker, Assembly-CSharp]], mscorlib",
+                "$values": []
+              },
+              "cachedAnimatableName": "",
+              "keyframes": {
+                "$id": "228",
+                "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotKeyframe, Assembly-CSharp]], mscorlib",
+                "$values": [
+                  {
+                    "$id": "229",
+                    "$type": "TonicNorth.Bottango.Articulation.MovementKeyframe, Assembly-CSharp",
+                    "unbound": false,
+                    "animationTrack": {
+                      "$ref": "226"
+                    },
+                    "Movement": 0.628312349,
+                    "HandleType": "AutoSmooth",
+                    "InTangent": {
+                      "$id": "230",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": -141,
+                      "Y": 0.0
+                    },
+                    "OutTangent": {
+                      "$id": "231",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": 766,
+                      "Y": 0.0
+                    },
+                    "Frame": 0
+                  },
+                  {
+                    "$id": "232",
+                    "$type": "TonicNorth.Bottango.Articulation.MovementKeyframe, Assembly-CSharp",
+                    "unbound": false,
+                    "animationTrack": {
+                      "$ref": "226"
+                    },
+                    "Movement": 0.595769346,
+                    "HandleType": "AutoSmooth",
+                    "InTangent": {
+                      "$id": "233",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": -766,
+                      "Y": 0.0
+                    },
+                    "OutTangent": {
+                      "$id": "234",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": 141,
+                      "Y": 0.0
+                    },
+                    "Frame": 92
+                  }
+                ]
+              }
+            },
+            {
+              "$id": "235",
+              "$type": "TonicNorth.Bottango.Articulation.MovementAnimationTrack, Assembly-CSharp",
+              "unbound": false,
+              "parentDimensionalTrack": null,
+              "animatable": {
+                "$ref": "189"
+              },
+              "parentClip": {
+                "$ref": "221"
+              },
+              "ungraphableOverried": false,
+              "markers": {
+                "$id": "236",
+                "$type": "System.Collections.Generic.List`1[[AnimationMarker, Assembly-CSharp]], mscorlib",
+                "$values": []
+              },
+              "cachedAnimatableName": "",
+              "keyframes": {
+                "$id": "237",
+                "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotKeyframe, Assembly-CSharp]], mscorlib",
+                "$values": []
+              }
+            },
+            {
+              "$id": "238",
+              "$type": "TonicNorth.Bottango.Articulation.MovementAnimationTrack, Assembly-CSharp",
+              "unbound": false,
+              "parentDimensionalTrack": null,
+              "animatable": {
+                "$ref": "53"
+              },
+              "parentClip": {
+                "$ref": "221"
+              },
+              "ungraphableOverried": false,
+              "markers": {
+                "$id": "239",
+                "$type": "System.Collections.Generic.List`1[[AnimationMarker, Assembly-CSharp]], mscorlib",
+                "$values": []
+              },
+              "cachedAnimatableName": "",
+              "keyframes": {
+                "$id": "240",
+                "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotKeyframe, Assembly-CSharp]], mscorlib",
+                "$values": [
+                  {
+                    "$id": "241",
+                    "$type": "TonicNorth.Bottango.Articulation.MovementKeyframe, Assembly-CSharp",
+                    "unbound": false,
+                    "animationTrack": {
+                      "$ref": "238"
+                    },
+                    "Movement": 0.541937649,
+                    "HandleType": "AutoSmooth",
+                    "InTangent": {
+                      "$id": "242",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": -1000,
+                      "Y": 0.0
+                    },
+                    "OutTangent": {
+                      "$id": "243",
+                      "$type": "BotTangoSerial.Point, Assembly-CSharp",
+                      "X": 1000,
+                      "Y": 0.0
+                    },
+                    "Frame": 300
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "markers": {
+          "$id": "244",
+          "$type": "System.Collections.Generic.List`1[[AnimationMarker, Assembly-CSharp]], mscorlib",
+          "$values": []
+        },
+        "DurationInMS": 10000
+      }
+    ]
+  },
+  "projectDefaults": {
+    "$id": "245",
+    "$type": "ProjectDefaults+Defaults, Assembly-CSharp",
+    "colorPresets": {
+      "$id": "246",
+      "$type": "System.Collections.Generic.List`1[[UnityEngine.Color, UnityEngine.CoreModule]], mscorlib",
+      "$values": []
+    },
+    "liveOnLaunch": true,
+    "lastExportedConfig": null,
+    "apiPort": 59224,
+    "ltcSettings": {
+      "$id": "247",
+      "$type": "LTCSettings, Assembly-CSharp",
+      "lastDeviceName": "",
+      "frameRate": "FPS_30_00",
+      "channel": 0,
+      "freewheel": 200,
+      "maxDrift": 100,
+      "offset": 0,
+      "jogTime": 2000,
+      "jogWiggle": 500
+    },
+    "defaultClips": {
+      "$id": "248",
+      "$type": "System.Collections.Generic.List`1[[TonicNorth.Bottango.Articulation.BotAnimationClip, Assembly-CSharp]], mscorlib",
+      "$values": []
+    },
+    "useLegacyPoseMixerEvaluation": false,
+    "projectType": "Studio",
+    "BoltKey": "",
+    "BoltProjectRev": "1",
+    "boltStartCameraPos": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "boltStartCameraPivot": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "serialControllerMetaDatas": {
+    "$id": "249",
+    "$type": "System.Collections.Generic.List`1[[SerialControllerMetaData, Assembly-CSharp]], mscorlib",
+    "$values": [
+      {
+        "$id": "250",
+        "$type": "SerialControllerMetaData, Assembly-CSharp",
+        "Name": "Default Driver",
+        "communicationType": "Serial",
+        "communicationTypeMetaData": {
+          "$id": "251",
+          "$type": "SerialCommunicationType_USBSerial_MetaData, Assembly-CSharp",
+          "SearchQuery": "",
+          "SearchExactPath": "",
+          "UseExactPath": true,
+          "BaudRate": 115200,
+          "sharedSerialAPIMetadata": {
+            "$id": "252",
+            "$type": "SharedBottangoSerialAPIMetaData, Assembly-CSharp",
+            "signalRange": "Default_16",
+            "driverSignalPrecision": "Default",
+            "compressedIntMax": 8192,
+            "targetInstantHz": 30,
+            "MaxCurveLeadTimeMS": 1000,
+            "CurvesBufferSize": 3,
+            "curveStrategy": "Precached",
+            "allowInstant": true,
+            "offsetBySyncTime": true,
+            "includeJITTimeStamps": false,
+            "maxMessageLength": 100,
+            "allowSyncCurves": false,
+            "audioKeyframeType": "TriggerEvent"
+          }
+        },
+        "LiveOnLaunch": true,
+        "LastSuccessfulPort": "None",
+        "Effectors": {
+          "$id": "253",
+          "$type": "System.Collections.Generic.List`1[[IHardwareEffector, Assembly-CSharp]], mscorlib",
+          "$values": [
+            {
+              "$ref": "47"
+            },
+            {
+              "$ref": "68"
+            },
+            {
+              "$ref": "186"
+            },
+            {
+              "$ref": "202"
+            }
+          ]
+        },
+        "relayIdentifier": "",
+        "relayCommunicationType": "None",
+        "relayMacAddress": {
+          "$type": "System.Byte[], mscorlib",
+          "$value": "AAAAAAAA"
+        },
+        "parentControllerMetadata": null
+      }
+    ]
+  },
+  "controlSchemes": {
+    "$id": "254",
+    "$type": "System.Collections.Generic.List`1[[ControlScheme, Assembly-CSharp]], mscorlib",
+    "$values": []
+  }
+}
