@@ -3935,7 +3935,7 @@
                 "HomeLocalRotation": {
                   "w": -6.18173E-08,
                   "x": 0.707106769,
-                  "y": 6.39488462E-14,
+                  "y": 6.750156E-14,
                   "z": 0.707106769,
                   "eulerAngles": {
                     "x": -5.00896749E-06,
@@ -6605,10 +6605,10 @@
                     "JogSpeedMultiplier": 0.5,
                     "HornRange": 180.0,
                     "HomeLocalRotation": {
-                      "w": 0.5010065,
-                      "x": -0.5010065,
-                      "y": 0.49899143,
-                      "z": -0.49899143,
+                      "w": 0.5010066,
+                      "x": -0.5010066,
+                      "y": 0.4989913,
+                      "z": -0.4989913,
                       "eulerAngles": {
                         "x": 359.769073,
                         "y": 90.0,
@@ -10447,7 +10447,7 @@
                     "OutTangent": {
                       "$id": "989",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 75,
+                      "X": 66,
                       "Y": 0.0
                     },
                     "Frame": 904
@@ -10459,21 +10459,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3633194,
+                    "Movement": 0.256392419,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "991",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -73,
+                      "X": -64,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "992",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 50,
+                      "X": 58,
                       "Y": 0.0
                     },
-                    "Frame": 913
+                    "Frame": 912
                   },
                   {
                     "$id": "993",
@@ -10487,13 +10487,13 @@
                     "InTangent": {
                       "$id": "994",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -50,
+                      "X": -58,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "995",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 58,
+                      "X": 66,
                       "Y": 0.0
                     },
                     "Frame": 919
@@ -10505,21 +10505,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3075314,
+                    "Movement": 0.233147413,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "997",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -58,
+                      "X": -66,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "998",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 66,
+                      "X": 57,
                       "Y": 0.0
                     },
-                    "Frame": 926
+                    "Frame": 927
                   },
                   {
                     "$id": "999",
@@ -10533,13 +10533,13 @@
                     "InTangent": {
                       "$id": "1000",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -66,
+                      "X": -57,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1001",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 133,
+                      "X": 141,
                       "Y": 0.0
                     },
                     "Frame": 934
@@ -10551,21 +10551,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3447234,
+                    "Movement": 0.247094408,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1003",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -399,
-                      "Y": 0.115533613
+                      "X": -424,
+                      "Y": 0.122903489
                     },
                     "OutTangent": {
                       "$id": "1004",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 41,
-                      "Y": -0.0119981486
+                      "X": 32,
+                      "Y": -0.00946493
                     },
-                    "Frame": 950
+                    "Frame": 951
                   },
                   {
                     "$id": "1005",
@@ -10579,7 +10579,7 @@
                     "InTangent": {
                       "$id": "1006",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -41,
+                      "X": -32,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -10608,8 +10608,8 @@
                     "OutTangent": {
                       "$id": "1010",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 82,
-                      "Y": 0.0573260151
+                      "X": 104,
+                      "Y": 0.07294617
                     },
                     "Frame": 963
                   },
@@ -10620,21 +10620,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3214784,
+                    "Movement": 0.233147413,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1012",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -91,
+                      "X": -115,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1013",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 41,
+                      "X": 16,
                       "Y": 0.0
                     },
-                    "Frame": 974
+                    "Frame": 977
                   },
                   {
                     "$id": "1014",
@@ -10648,7 +10648,7 @@
                     "InTangent": {
                       "$id": "1015",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -41,
+                      "X": -16,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -10689,21 +10689,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.447001368,
+                    "Movement": 0.242445409,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1021",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -600,
-                      "Y": -0.0608176328
+                      "X": -566,
+                      "Y": -0.0575713329
                     },
                     "OutTangent": {
                       "$id": "1022",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 66,
-                      "Y": 0.006710654
+                      "X": 82,
+                      "Y": 0.008372724
                     },
-                    "Frame": 1028
+                    "Frame": 1026
                   },
                   {
                     "$id": "1023",
@@ -10717,13 +10717,13 @@
                     "InTangent": {
                       "$id": "1024",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -66,
+                      "X": -82,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1025",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 49,
+                      "X": 73,
                       "Y": 0.0
                     },
                     "Frame": 1036
@@ -10735,21 +10735,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.2982334,
+                    "Movement": 0.271036923,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1027",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -49,
+                      "X": -73,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1028",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 66,
+                      "X": 41,
                       "Y": 0.0
                     },
-                    "Frame": 1042
+                    "Frame": 1045
                   },
                   {
                     "$id": "1029",
@@ -10763,13 +10763,13 @@
                     "InTangent": {
                       "$id": "1030",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -66,
+                      "X": -41,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1031",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 208,
+                      "X": 216,
                       "Y": 0.0
                     },
                     "Frame": 1050
@@ -10781,21 +10781,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.395862371,
+                    "Movement": 0.247094408,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1033",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -208,
+                      "X": -216,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1034",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 50,
+                      "X": 41,
                       "Y": 0.0
                     },
-                    "Frame": 1075
+                    "Frame": 1076
                   },
                   {
                     "$id": "1035",
@@ -10809,14 +10809,14 @@
                     "InTangent": {
                       "$id": "1036",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -18,
-                      "Y": 0.0117617529
+                      "X": -15,
+                      "Y": 0.009860388
                     },
                     "OutTangent": {
                       "$id": "1037",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 76,
-                      "Y": -0.0502422862
+                      "X": 108,
+                      "Y": -0.07140106
                     },
                     "Frame": 1081
                   },
@@ -10827,21 +10827,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.419107378,
+                    "Movement": 0.2517434,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1039",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -76,
-                      "Y": 0.0405295156
+                      "X": -108,
+                      "Y": 0.0584341772
                     },
                     "OutTangent": {
                       "$id": "1040",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 115,
-                      "Y": -0.06186084
+                      "X": 80,
+                      "Y": -0.04353642
                     },
-                    "Frame": 1088
+                    "Frame": 1091
                   },
                   {
                     "$id": "1041",
@@ -10855,14 +10855,14 @@
                     "InTangent": {
                       "$id": "1042",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -104,
-                      "Y": 0.00435919128
+                      "X": -72,
+                      "Y": 0.00309708016
                     },
                     "OutTangent": {
                       "$id": "1043",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 222,
-                      "Y": -0.009305197
+                      "X": 253,
+                      "Y": -0.0108989151
                     },
                     "Frame": 1098
                   },
@@ -10873,21 +10873,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.395862371,
+                    "Movement": 0.265690416,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1045",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -68,
-                      "Y": 0.00586468726
+                      "X": -77,
+                      "Y": 0.00669352943
                     },
                     "OutTangent": {
                       "$id": "1046",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 199,
-                      "Y": -0.0171628352
+                      "X": 165,
+                      "Y": -0.0144013027
                     },
-                    "Frame": 1112
+                    "Frame": 1114
                   },
                   {
                     "$id": "1047",
@@ -10901,7 +10901,7 @@
                     "InTangent": {
                       "$id": "1048",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -100,
+                      "X": -83,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -10919,7 +10919,7 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.405160367,
+                    "Movement": 0.219200417,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1051",
@@ -10930,7 +10930,7 @@
                     "OutTangent": {
                       "$id": "1052",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 33,
+                      "X": 49,
                       "Y": 0.0
                     },
                     "Frame": 1137
@@ -10942,21 +10942,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.6887493,
+                    "Movement": 0.8514643,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1054",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -33,
+                      "X": -49,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1055",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 175,
+                      "X": 158,
                       "Y": 0.0
                     },
-                    "Frame": 1141
+                    "Frame": 1143
                   },
                   {
                     "$id": "1056",
@@ -10965,12 +10965,12 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3726174,
+                    "Movement": 0.214551419,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1057",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -175,
+                      "X": -158,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -10999,7 +10999,7 @@
                     "OutTangent": {
                       "$id": "1061",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 58,
+                      "X": 82,
                       "Y": 0.0
                     },
                     "Frame": 1173
@@ -11011,21 +11011,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.465597361,
+                    "Movement": 0.205253422,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1063",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -58,
+                      "X": -82,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1064",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 50,
+                      "X": 25,
                       "Y": 0.0
                     },
-                    "Frame": 1180
+                    "Frame": 1183
                   },
                   {
                     "$id": "1065",
@@ -11039,13 +11039,13 @@
                     "InTangent": {
                       "$id": "1066",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -50,
+                      "X": -25,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1067",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 107,
+                      "X": 115,
                       "Y": 0.0
                     },
                     "Frame": 1186
@@ -11057,21 +11057,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.32612738,
+                    "Movement": 0.209902421,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1069",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -107,
+                      "X": -115,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1070",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 66,
+                      "X": 57,
                       "Y": 0.0
                     },
-                    "Frame": 1199
+                    "Frame": 1200
                   },
                   {
                     "$id": "1071",
@@ -11085,7 +11085,7 @@
                     "InTangent": {
                       "$id": "1072",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -66,
+                      "X": -57,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -11126,21 +11126,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.386564374,
+                    "Movement": 0.2517434,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1078",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -132,
+                      "X": -140,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1079",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 41,
+                      "X": 32,
                       "Y": 0.0
                     },
-                    "Frame": 1241
+                    "Frame": 1242
                   },
                   {
                     "$id": "1080",
@@ -11154,14 +11154,14 @@
                     "InTangent": {
                       "$id": "1081",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -30,
-                      "Y": 0.0278940033
+                      "X": -23,
+                      "Y": 0.0222149845
                     },
                     "OutTangent": {
                       "$id": "1082",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 100,
-                      "Y": -0.09297995
+                      "X": 99,
+                      "Y": -0.09658689
                     },
                     "Frame": 1246
                   },
@@ -11183,7 +11183,7 @@
                     "OutTangent": {
                       "$id": "1085",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 74,
+                      "X": 82,
                       "Y": 0.0
                     },
                     "Frame": 1251
@@ -11195,21 +11195,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3400744,
+                    "Movement": 0.214551419,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1087",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -74,
+                      "X": -82,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1088",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 33,
+                      "X": 24,
                       "Y": 0.0
                     },
-                    "Frame": 1260
+                    "Frame": 1261
                   },
                   {
                     "$id": "1089",
@@ -11223,7 +11223,7 @@
                     "InTangent": {
                       "$id": "1090",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -33,
+                      "X": -24,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -11241,7 +11241,7 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3493724,
+                    "Movement": 0.209902421,
                     "HandleType": "Broken",
                     "InTangent": {
                       "$id": "1093",
@@ -11264,7 +11264,7 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.32612738,
+                    "Movement": 0.219200417,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1096",
@@ -11310,21 +11310,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.8933053,
+                    "Movement": 0.465597361,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1102",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -47,
-                      "Y": 0.12905173
+                      "X": -39,
+                      "Y": 0.117012531
                     },
                     "OutTangent": {
                       "$id": "1103",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 166,
-                      "Y": -0.446303934
+                      "X": 203,
+                      "Y": -0.609285235
                     },
-                    "Frame": 1304
+                    "Frame": 1302
                   },
                   {
                     "$id": "1104",
@@ -11338,13 +11338,13 @@
                     "InTangent": {
                       "$id": "1105",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -75,
+                      "X": -91,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1106",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 125,
+                      "X": 133,
                       "Y": 0.0
                     },
                     "Frame": 1313
@@ -11356,21 +11356,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3447234,
+                    "Movement": 0.228498414,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1108",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -125,
+                      "X": -133,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1109",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 58,
+                      "X": 49,
                       "Y": 0.0
                     },
-                    "Frame": 1328
+                    "Frame": 1329
                   },
                   {
                     "$id": "1110",
@@ -11384,13 +11384,13 @@
                     "InTangent": {
                       "$id": "1111",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -58,
+                      "X": -49,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1112",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 57,
+                      "X": 73,
                       "Y": 0.0
                     },
                     "Frame": 1335
@@ -11430,7 +11430,7 @@
                     "InTangent": {
                       "$id": "1117",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -66,
+                      "X": -49,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -11482,8 +11482,8 @@
                     "OutTangent": {
                       "$id": "1124",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 216,
-                      "Y": -0.189995542
+                      "X": 207,
+                      "Y": -0.182200924
                     },
                     "Frame": 1377
                   },
@@ -11494,21 +11494,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.419107378,
+                    "Movement": 0.228498414,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1126",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -216,
+                      "X": -207,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1127",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 100,
+                      "X": 108,
                       "Y": 0.0
                     },
-                    "Frame": 1403
+                    "Frame": 1402
                   },
                   {
                     "$id": "1128",
@@ -11522,14 +11522,14 @@
                     "InTangent": {
                       "$id": "1129",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -36,
-                      "Y": 0.07187101
+                      "X": -31,
+                      "Y": 0.112134375
                     },
                     "OutTangent": {
                       "$id": "1130",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
                       "X": 333,
-                      "Y": -0.664806843
+                      "Y": -1.16689873
                     },
                     "Frame": 1415
                   },
@@ -11568,14 +11568,14 @@
                     "InTangent": {
                       "$id": "1135",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -333,
-                      "Y": -0.5346349
+                      "X": -300,
+                      "Y": -1.23663366
                     },
                     "OutTangent": {
                       "$id": "1136",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 300,
-                      "Y": -0.567177832
+                      "X": 634,
+                      "Y": -1.22268677
                     },
                     "Frame": 1450
                   },
@@ -11597,7 +11597,7 @@
                     "OutTangent": {
                       "$id": "1139",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 183,
+                      "X": 199,
                       "Y": 0.0
                     },
                     "Frame": 1466
@@ -11609,21 +11609,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3726174,
+                    "Movement": 0.186657429,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1141",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -183,
+                      "X": -199,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1142",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 104,
+                      "X": 86,
                       "Y": 0.0
                     },
-                    "Frame": 1488
+                    "Frame": 1490
                   },
                   {
                     "$id": "1143",
@@ -11637,7 +11637,7 @@
                     "InTangent": {
                       "$id": "1144",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -153,
+                      "X": -127,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -11660,14 +11660,14 @@
                     "InTangent": {
                       "$id": "1147",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -567,
-                      "Y": -0.4044629
+                      "X": -633,
+                      "Y": -1.18084574
                     },
                     "OutTangent": {
                       "$id": "1148",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 35,
-                      "Y": 0.02539485
+                      "X": 19,
+                      "Y": 0.0354440324
                     },
                     "Frame": 1527
                   },
@@ -11678,7 +11678,7 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.32612738,
+                    "Movement": 0.172710434,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1150",
@@ -11706,14 +11706,14 @@
                     "InTangent": {
                       "$id": "1153",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -27,
-                      "Y": 0.0273980256
+                      "X": -15,
+                      "Y": 0.023361221
                     },
                     "OutTangent": {
                       "$id": "1154",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 700,
-                      "Y": -0.710319161
+                      "X": 800,
+                      "Y": -1.24593174
                     },
                     "Frame": 1543
                   },
@@ -11747,12 +11747,12 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3447234,
+                    "Movement": 0.195955426,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1159",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -125,
+                      "X": -124,
                       "Y": 0.0
                     },
                     "OutTangent": {
@@ -11793,19 +11793,19 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3633194,
+                    "Movement": 0.200604424,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1165",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
                       "X": -100,
-                      "Y": 0.232449934
+                      "Y": 0.234471068
                     },
                     "OutTangent": {
                       "$id": "1166",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
                       "X": 66,
-                      "Y": -0.1544944
+                      "Y": -0.1547509
                     },
                     "Frame": 1614
                   },
@@ -11827,7 +11827,7 @@
                     "OutTangent": {
                       "$id": "1169",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 133,
+                      "X": 157,
                       "Y": 0.0
                     },
                     "Frame": 1622
@@ -11839,21 +11839,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.3633194,
+                    "Movement": 0.205253422,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1171",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -133,
+                      "X": -157,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1172",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 191,
+                      "X": 166,
                       "Y": 0.0
                     },
-                    "Frame": 1638
+                    "Frame": 1641
                   },
                   {
                     "$id": "1173",
@@ -11890,14 +11890,14 @@
                     "InTangent": {
                       "$id": "1177",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -467,
-                      "Y": -0.31613192
+                      "X": -533,
+                      "Y": -1.22733569
                     },
                     "OutTangent": {
                       "$id": "1178",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 400,
-                      "Y": -0.446303874
+                      "X": 567,
+                      "Y": -1.25522971
                     },
                     "Frame": 1680
                   },
@@ -11942,7 +11942,7 @@
                     "OutTangent": {
                       "$id": "1184",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 183,
+                      "X": 207,
                       "Y": 0.0
                     },
                     "Frame": 1714
@@ -11954,21 +11954,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.5539284,
+                    "Movement": 0.186657429,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1186",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -183,
+                      "X": -207,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1187",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 175,
+                      "X": 150,
                       "Y": 0.0
                     },
-                    "Frame": 1736
+                    "Frame": 1739
                   },
                   {
                     "$id": "1188",
@@ -11988,8 +11988,8 @@
                     "OutTangent": {
                       "$id": "1190",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 233,
-                      "Y": -0.4416549
+                      "X": 400,
+                      "Y": -1.22733569
                     },
                     "Frame": 1757
                   },
@@ -12028,14 +12028,14 @@
                     "InTangent": {
                       "$id": "1195",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -208,
-                      "Y": -0.202662945
+                      "X": -133,
+                      "Y": -1.26452768
                     },
                     "OutTangent": {
                       "$id": "1196",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 267,
-                      "Y": -0.316131949
+                      "X": 534,
+                      "Y": -1.26452768
                     },
                     "Frame": 1783
                   },
@@ -12057,8 +12057,8 @@
                     "OutTangent": {
                       "$id": "1199",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 300,
-                      "Y": -0.5160389
+                      "X": 500,
+                      "Y": -1.26452768
                     },
                     "Frame": 1800
                   },
