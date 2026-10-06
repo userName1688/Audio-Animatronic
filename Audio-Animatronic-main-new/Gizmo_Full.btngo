@@ -5485,8 +5485,8 @@
                             "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
                             "I2CAddress": 64,
                             "Pin": 1,
-                            "MinPwm": 1500,
-                            "MaxPwm": 2300,
+                            "MinPwm": 2299,
+                            "MaxPwm": 1500,
                             "MaxSpeed": 3000
                           },
                           "hornRange": 180.0,
@@ -13808,7 +13808,7 @@
                     "OutTangent": {
                       "$id": "1427",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 58,
+                      "X": 66,
                       "Y": 0.0
                     },
                     "Frame": 3661
@@ -13820,7 +13820,7 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.90341866,
+                    "Movement": 0.7724313,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1429",
@@ -13854,7 +13854,7 @@
                     "OutTangent": {
                       "$id": "1433",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 49,
+                      "X": 81,
                       "Y": 0.0
                     },
                     "Frame": 3671
@@ -13866,21 +13866,21 @@
                     "animationTrack": {
                       "$ref": "522"
                     },
-                    "Movement": 0.627189159,
+                    "Movement": 0.6562063,
                     "HandleType": "AutoSmooth",
                     "InTangent": {
                       "$id": "1435",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -49,
+                      "X": -81,
                       "Y": 0.0
                     },
                     "OutTangent": {
                       "$id": "1436",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": 99,
+                      "X": 66,
                       "Y": 0.0
                     },
-                    "Frame": 3677
+                    "Frame": 3681
                   },
                   {
                     "$id": "1437",
@@ -13894,14 +13894,14 @@
                     "InTangent": {
                       "$id": "1438",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
-                      "X": -300,
-                      "Y": -0.05919204
+                      "X": -200,
+                      "Y": -0.0396296941
                     },
                     "OutTangent": {
                       "$id": "1439",
                       "$type": "BotTangoSerial.Point, Assembly-CSharp",
                       "X": 25,
-                      "Y": 0.00493267
+                      "Y": 0.00495371176
                     },
                     "Frame": 3689
                   },
@@ -18077,7 +18077,7 @@
           "$id": "1981",
           "$type": "SerialCommunicationType_USBSerial_MetaData, Assembly-CSharp",
           "SearchQuery": "",
-          "SearchExactPath": "COM7",
+          "SearchExactPath": "COM8",
           "UseExactPath": true,
           "BaudRate": 115200,
           "sharedSerialAPIMetadata": {
@@ -18099,7 +18099,7 @@
           }
         },
         "LiveOnLaunch": true,
-        "LastSuccessfulPort": "COM7",
+        "LastSuccessfulPort": "COM8",
         "Effectors": {
           "$id": "1983",
           "$type": "System.Collections.Generic.List`1[[IHardwareEffector, Assembly-CSharp]], mscorlib",
