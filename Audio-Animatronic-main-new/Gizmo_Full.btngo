@@ -3294,7 +3294,7 @@
                         "y": 0.0,
                         "z": 0.0
                       },
-                      "Name": "Keytar (Black Key2)",
+                      "Name": "Keytar (Black Key5)",
                       "Visible": true,
                       "Size": {
                         "x": 1.0,
@@ -3320,8 +3320,8 @@
                             {
                               "$id": "257",
                               "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
-                              "pointName": "Solid1:61",
-                              "siblingIndex": 69
+                              "pointName": "Solid1:64",
+                              "siblingIndex": 72
                             }
                           ]
                         }
@@ -3373,7 +3373,7 @@
                         "y": 0.0,
                         "z": 0.0
                       },
-                      "Name": "Keytar (Black Key3)",
+                      "Name": "Keytar (Black Key2)",
                       "Visible": true,
                       "Size": {
                         "x": 1.0,
@@ -3399,8 +3399,8 @@
                             {
                               "$id": "263",
                               "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
-                              "pointName": "Solid1:62",
-                              "siblingIndex": 70
+                              "pointName": "Solid1:61",
+                              "siblingIndex": 69
                             }
                           ]
                         }
@@ -3452,7 +3452,7 @@
                         "y": 0.0,
                         "z": 0.0
                       },
-                      "Name": "Keytar (Black Key4)",
+                      "Name": "Keytar (Black Key3)",
                       "Visible": true,
                       "Size": {
                         "x": 1.0,
@@ -3478,8 +3478,8 @@
                             {
                               "$id": "269",
                               "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
-                              "pointName": "Solid1:63",
-                              "siblingIndex": 71
+                              "pointName": "Solid1:62",
+                              "siblingIndex": 70
                             }
                           ]
                         }
@@ -3531,7 +3531,7 @@
                         "y": 0.0,
                         "z": 0.0
                       },
-                      "Name": "Keytar (Black Key5)",
+                      "Name": "Keytar (Black Key4)",
                       "Visible": true,
                       "Size": {
                         "x": 1.0,
@@ -3557,8 +3557,8 @@
                             {
                               "$id": "275",
                               "$type": "ModelInternalPath+ModelPathPoint, Assembly-CSharp",
-                              "pointName": "Solid1:64",
-                              "siblingIndex": 72
+                              "pointName": "Solid1:63",
+                              "siblingIndex": 71
                             }
                           ]
                         }
@@ -3906,10 +3906,11 @@
                 },
                 "serializedMotorHardwareConfiguration": {
                   "$id": "304",
-                  "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
-                  "Pin": 0,
+                  "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
+                  "I2CAddress": 64,
+                  "Pin": 4,
                   "MinPwm": 1000,
-                  "MaxPwm": 2000,
+                  "MaxPwm": 3000,
                   "MaxSpeed": 3000
                 },
                 "hornRange": 180.0,
@@ -3929,7 +3930,7 @@
                   "y": 0.0,
                   "z": 0.0
                 },
-                "HomePWM": 1500,
+                "HomePWM": 2000,
                 "JogSpeedMultiplier": 0.5,
                 "HornRange": 180.0,
                 "HomeLocalRotation": {
@@ -4004,7 +4005,7 @@
                       "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
                       "I2CAddress": 64,
                       "Pin": 3,
-                      "MinPwm": 3000,
+                      "MinPwm": 2100,
                       "MaxPwm": 500,
                       "MaxSpeed": 3000
                     },
@@ -4025,7 +4026,7 @@
                       "y": 0.0,
                       "z": 0.0
                     },
-                    "HomePWM": 1750,
+                    "HomePWM": 1300,
                     "JogSpeedMultiplier": 1.0,
                     "HornRange": 180.0,
                     "HomeLocalRotation": {
@@ -5483,8 +5484,8 @@
                             "$id": "422",
                             "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
                             "I2CAddress": 64,
-                            "Pin": 2,
-                            "MinPwm": 1400,
+                            "Pin": 1,
+                            "MinPwm": 1500,
                             "MaxPwm": 2300,
                             "MaxSpeed": 3000
                           },
@@ -5505,7 +5506,7 @@
                             "y": 0.0,
                             "z": 0.0
                           },
-                          "HomePWM": 1681,
+                          "HomePWM": 1750,
                           "JogSpeedMultiplier": 0.5,
                           "HornRange": 180.0,
                           "HomeLocalRotation": {
@@ -5772,10 +5773,11 @@
                           },
                           "serializedMotorHardwareConfiguration": {
                             "$id": "441",
-                            "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
+                            "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
+                            "I2CAddress": 64,
                             "Pin": 0,
                             "MinPwm": 1000,
-                            "MaxPwm": 2000,
+                            "MaxPwm": 500,
                             "MaxSpeed": 3000
                           },
                           "hornRange": 180.0,
@@ -5795,7 +5797,7 @@
                             "y": 0.0,
                             "z": 0.0
                           },
-                          "HomePWM": 1565,
+                          "HomePWM": 1000,
                           "JogSpeedMultiplier": 0.5,
                           "HornRange": 180.0,
                           "HomeLocalRotation": {
@@ -6578,8 +6580,9 @@
                     },
                     "serializedMotorHardwareConfiguration": {
                       "$id": "501",
-                      "$type": "SerializedPinServoHardwareConfiguration, Assembly-CSharp",
-                      "Pin": 0,
+                      "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
+                      "I2CAddress": 64,
+                      "Pin": 2,
                       "MinPwm": 1000,
                       "MaxPwm": 2000,
                       "MaxSpeed": 3000
@@ -6601,7 +6604,7 @@
                       "y": 0.0,
                       "z": 0.0
                     },
-                    "HomePWM": 1857,
+                    "HomePWM": 1400,
                     "JogSpeedMultiplier": 0.5,
                     "HornRange": 180.0,
                     "HomeLocalRotation": {
