@@ -4026,7 +4026,7 @@
                       "y": 0.0,
                       "z": 0.0
                     },
-                    "HomePWM": 1300,
+                    "HomePWM": 1200,
                     "JogSpeedMultiplier": 1.0,
                     "HornRange": 180.0,
                     "HomeLocalRotation": {
@@ -5485,7 +5485,7 @@
                             "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
                             "I2CAddress": 64,
                             "Pin": 1,
-                            "MinPwm": 2299,
+                            "MinPwm": 2300,
                             "MaxPwm": 1500,
                             "MaxSpeed": 3000
                           },
@@ -5506,7 +5506,7 @@
                             "y": 0.0,
                             "z": 0.0
                           },
-                          "HomePWM": 1750,
+                          "HomePWM": 2050,
                           "JogSpeedMultiplier": 0.5,
                           "HornRange": 180.0,
                           "HomeLocalRotation": {
