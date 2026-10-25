@@ -785,7 +785,7 @@
                 "$id": "69",
                 "$type": "SerializedI2CServoHardwareConfiguration, Assembly-CSharp",
                 "I2CAddress": 64,
-                "Pin": 4,
+                "Pin": 8,
                 "MinPwm": 2600,
                 "MaxPwm": 200,
                 "MaxSpeed": 3000
